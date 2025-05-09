@@ -1,11 +1,9 @@
 {
-    "name": "Renovacoins",
-    "symbol": "RVC",
-    "address": "0xa96493EFFE64b5B3d8aFf21B4fF998Ac1Aae9EF8",
-    "decimals": 18,
-    "description": "Renovacoins (RVC) es un token ERC20 creado por Kleimer Escalona y su equipo, diseñado para promover un ecosistema digital de confianza y evolución financiera.",
-    "website": "https://renovacoins.com",
-    "socials": {
-        "github": "https://github.com/kleimere/renovacoins-contract"
-    }
+  "name": "Renovacoins",
+  "symbol": "RVC",
+  "address": "0xa96493EFFE64b5B3d8aFf21B4fF998Ac1Aae9EF8",
+  "chainId": 1,
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/kleimere/Renovacoins-contract/main/logo.png",
+  "tags": ["token", "renovacoins", "rvc", "erc20"]
 }
