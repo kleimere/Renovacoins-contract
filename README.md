@@ -1,41 +1,24 @@
 # Renovacoins (RVC)
 
-**Renovacoins** es un token ERC20 desarrollado por Kleimer Escalona y su equipo, creado para promover un ecosistema de confianza, utilidad y evolución financiera descentralizada.
+*Renovacoins* es un token ERC20 profesional desarrollado por Kleimer Escalona y su equipo. Fue creado para impulsar un ecosistema de confianza, utilidad y evolución financiera descentralizada.
 
-## Características del contrato
+## Información oficial
 
-- Suministro fijo: **100,000,000 RVC**
-- Código verificado públicamente en Etherscan (una vez desplegado)
-- Basado en OpenZeppelin (auditoría comunitaria)
-- Funciones activadas:
-  - `Burnable`
-  - `Capped`
-  - `Pausable`
-  - `Permit`
-- **Sin funciones de blacklist**
-- **Sin mint infinito**
-- Listo para ser listado en:
-  - CoinGecko
-  - CoinMarketCap
-  - Trust Wallet
+- *Nombre del Token:* Renovacoins  
+- *Símbolo:* RVC  
+- *Dirección del contrato:* 0xa96493EFFE64b5B3d8aFf21B4fF998Ac1Aae9EF8  
+- *Red:* Ethereum Mainnet  
+- *Suministro total:* 100,000,000 RVC  
+- *Decimales:* 18  
 
-## Red
+## Funcionalidades del contrato
 
-- Red oficial: Ethereum Mainnet
-- Decimales: 18
+- Código 100% limpio y verificado  
+- Basado en estándar ERC20 de OpenZeppelin  
+- Funciones de seguridad:
+  - pause() y unpause() (solo por el owner)
+  - Sin funciones de blacklist
+  - No es mintable (suministro fijo)
+  - Compatible con herramientas DeFi y plataformas de verificación  
 
-## Autor
-
-**Kleimer Escalona**  
-Fundador de Renovacoins  
-[renovacoins.com](https://renovacoins.com)  
-Email: rvc@renovacoins.com
-
-## Explorador
-
-(Se agregará después del despliegue oficial)  
-[Etherscan](https://etherscan.io)
-
-## Licencia
-
-MIT License
+## Contratos incluidos
