@@ -4,6 +4,6 @@
   "address": "0xa96493EFFE64b5B3d8aFf21B4fF998Ac1Aae9EF8",
   "chainId": 1,
   "decimals": 18,
-  "logoURI": "https://raw.githubusercontent.com/kleimere/Renovacoins-contract/main/logo.png",
-  "tags": ["token", "renovacoins", "rvc", "erc20"]
+  "logoURI": "https://raw.githubusercontent.com/kleimere/Renovacoins-contract/main/Logo.png",
+  "tags": ["token", "renovacoins", "rvc", "ethereum"]
 }
